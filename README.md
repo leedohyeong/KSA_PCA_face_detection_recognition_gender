@@ -1,1 +1,3 @@
-# KSA_PCA_face_detection_recognition_gender
+## 인공지능 청년혁신가 과정 PCA 기반 얼굴인식 모듈
+
+### written by 정한진, 강도형, 고정민
